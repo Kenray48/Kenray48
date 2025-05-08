@@ -1,4 +1,4 @@
-d## Hi there 👋
+ Hi there 👋
 - 🔭 I’m currently working on getting my minecraft mods updated
 - 🌱 I’m currently learning marketing and java
 - 💬 Ask me about minecraft mods or unity games
